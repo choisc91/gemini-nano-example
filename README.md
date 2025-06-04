@@ -25,7 +25,7 @@
 
 ## ⚙️ 사전 준비 사항
 
-1. **[aicore-experimental Google 그룹](https://groups.google.com/g/aicore-experimental?hl=ko)**에 가입
+1. **[aicore-experimental Google 그룹](https://groups.google.com/g/aicore-experimental?hl=ko)** 가입
 2. **[Android AICore 베타 테스트 프로그램](https://play.google.com/apps/testing/com.google.android.aicore?hl=ko)** 참여  
    > 가입 완료 시 Play 스토어에서 앱명이 `Android AICore (베타)`로 변경됩니다
 3. **Play 스토어에서 필수 앱 업데이트**
